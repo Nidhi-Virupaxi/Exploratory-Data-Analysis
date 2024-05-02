@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis
+Conducted an in-depth Diwali sales analysis using Python (pandas, NumPy, Seaborn, Matplotlib) to uncover customer trends.Analysed data to identify factors influencing purchase behaviour, including gender, age group, location, and profession. Additionally, pinpointed the highest-selling products during the festive season. This project demonstrates proficiency in data cleaning, analysis, and visualization using industry-standard Python libraries.
